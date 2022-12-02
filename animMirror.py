@@ -2,7 +2,7 @@
 
 # DESCRIPTION: Tool for mirroring animation. Can be used on both FK and IK
 # REQUIRE: Python3
-# AUTHOR: BulinThira - Github
+# AUTHOR: BulinThira - GitHub
 
 import maya.cmds as mc
 
